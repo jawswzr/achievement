@@ -1,2 +1,2 @@
 # achievement
-GitHub 个人资料成就🏆
+GitHub Profile Achievements 🏆
